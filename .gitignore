@@ -1,0 +1,6 @@
+# Don't track content of these folders
+*.gcode
+*.FCStd1
+*.stl
+
+.DS_Store
