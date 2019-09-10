@@ -3,4 +3,4 @@
 *.FCStd1
 *.stl
 
-.DS_Store
+# .DS_Store
